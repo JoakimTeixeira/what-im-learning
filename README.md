@@ -5,7 +5,7 @@ List of topics that I'm learning and/or practicing.
 ## Topics:
 
 1) [React props & state](https://github.com/JoakimTeixeira/tweet-component)
-2) React basic hooks (useRef, useState, useEffect)
+2) [React basic hooks (useRef, useState, useEffect)](https://github.com/JoakimTeixeira/contact-app)
 3) React forms
 4) React simple CRUD with state
 5) Axios data fetching
