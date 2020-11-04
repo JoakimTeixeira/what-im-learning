@@ -12,12 +12,12 @@ List of topics that I'm learning and/or practicing.
 6) [Data fetching error handling](https://github.com/JoakimTeixeira/image-search)
 7) [Pagination](https://github.com/JoakimTeixeira/image-search)
 8) [Loading page](https://github.com/JoakimTeixeira/image-search)
-9) React children
-10) React.memo, useMemo and useCallback hooks
-11) Gzipping and compression
-12) React Lazy + React Suspense
-13) Error Boundaries
-14) React Context API & useContext
+9) [React children](https://github.com/JoakimTeixeira/expense-tracker)
+10) [React Context API & useContext](https://github.com/JoakimTeixeira/expense-tracker)
+11) React.memo, useMemo and useCallback hooks
+12) Gzipping and compression
+13) React Lazy + React Suspense
+14) Error Boundaries
 15) Custom hooks (useFetch)
 16) Styled-components
 17) Material UI styling
