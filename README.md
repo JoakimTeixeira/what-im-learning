@@ -11,35 +11,35 @@ List of topics that I'm learning and/or practicing.
 5) [Axios data fetching](https://github.com/JoakimTeixeira/image-search)
 6) [Data fetching error handling](https://github.com/JoakimTeixeira/image-search)
 7) [Pagination](https://github.com/JoakimTeixeira/image-search)
-8) [Loading page](https://github.com/JoakimTeixeira/image-search)
-9) [React children](https://github.com/JoakimTeixeira/expense-tracker)
-10) [React Context API & useContext](https://github.com/JoakimTeixeira/expense-tracker)
-11) React.memo, useMemo and useCallback hooks
-12) Gzipping and compression
-13) React Lazy + React Suspense
-14) Error Boundaries
-15) Custom hooks (useFetch)
-16) Styled-components
-17) Material UI styling
-18) PropTypes
-19) React + Typescript
-20) High Order Component patterns
-21) React Reducers
-22) React Router
-23) Consuming Promises with Async/Await
-24) React Query
-25) React Progressive Web App (PWA)
-26) MongoDB + Mongoose
-27) GrapgQL 
-28) React Test Driven Development (TDD) with Enzyme
-29) React Testing Library
-30) Apollo client integration
-31) Firebase data fetching
-32) Chart manipulation
-33) Redux + React hooks (Store, reducer, actions, useDispatch, useSelector)
-34) Redux-Saga
-35) Redux Async (Redux Thunk, Request/success/failure pattern)
-36) Enviroment variables  
+8) [Loading page](https://github.com/JoakimTeixeira/image-search) 
+9) [Enviroment variables](https://github.com/JoakimTeixeira/image-search) 
+10) [React children](https://github.com/JoakimTeixeira/expense-tracker)
+11) [React Context API & useContext](https://github.com/JoakimTeixeira/expense-tracker)
+12) React useReducer
+13) React Router
+14) Redux hooks (useDispatch, useSelector)
+15) Redux Async (Redux Thunk, Request/success/failure pattern)
+16) Redux-Saga
+17) Chart manipulation
+18) React.memo, useMemo and useCallback hooks
+19) Gzipping and compression
+20) React Lazy + React Suspense
+21) Error Boundaries
+22) Custom hooks (useFetch)
+23) Styled-components
+24) Material UI styling
+25) PropTypes
+26) React + Typescript
+27) High Order Component patterns
+28) Consuming Promises with Async/Await
+29) React Query
+30) React Progressive Web App (PWA)
+31) MongoDB + Mongoose
+32) GrapgQL
+33) Apollo client integration
+34) React Test Driven Development (TDD) with Enzyme
+35) React Testing Library
+36) Firebase data fetching  
 37) Gatsby blog development
 38) Google signin authentication
 39) Docker containers
