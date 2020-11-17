@@ -15,7 +15,7 @@ List of topics that I'm learning and/or practicing.
 9) [Enviroment variables](https://github.com/JoakimTeixeira/image-search) 
 10) [React children](https://github.com/JoakimTeixeira/expense-tracker)
 11) [React Context API & useContext](https://github.com/JoakimTeixeira/expense-tracker)
-12) React useReducer
+12) [React useReducer](https://github.com/JoakimTeixeira/banking-component)
 13) React Router
 14) Redux hooks (useDispatch, useSelector)
 15) Redux Async (Redux Thunk, Request/success/failure pattern)
