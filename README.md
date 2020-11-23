@@ -17,10 +17,10 @@ List of topics that I'm learning and/or practicing.
 11) [React Context API & useContext](https://github.com/JoakimTeixeira/expense-tracker)
 12) [React useReducer](https://github.com/JoakimTeixeira/banking-component)
 13) [React Router](https://github.com/JoakimTeixeira/routes-page)
-14) Redux hooks (useDispatch, useSelector)
-15) Redux Async (Redux Thunk, Request/success/failure pattern)
-16) Redux-Saga
-17) Chart manipulation
+14) [Chart manipulation](https://github.com/JoakimTeixeira/coin-tracker)
+15) Redux hooks (useDispatch, useSelector)
+16) Redux Async (Redux Thunk, Request/success/failure pattern)
+17) Redux-Saga
 18) React.memo, useMemo and useCallback hooks
 19) Gzipping and compression
 20) React Lazy + React Suspense
