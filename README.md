@@ -18,39 +18,40 @@ List of topics that I'm learning and/or practicing.
 12) [React useReducer](https://github.com/JoakimTeixeira/banking-component)
 13) [React Router](https://github.com/JoakimTeixeira/routes-page)
 14) [Chart manipulation](https://github.com/JoakimTeixeira/coin-tracker)
-15) Redux hooks (useDispatch, useSelector)
-16) Redux Async (Redux Thunk, Request/success/failure pattern)
-17) Redux-Saga
-18) React.memo, useMemo and useCallback hooks
-19) Gzipping and compression
-20) React Lazy + React Suspense
-21) Error Boundaries
-22) Custom hooks (useFetch)
-23) Styled-components
-24) Material UI styling
-25) PropTypes
-26) React + Typescript
-27) High Order Component patterns
-28) Consuming Promises with Async/Await
-29) React Query
-30) React Progressive Web App (PWA)
-31) MongoDB + Mongoose
-32) GrapgQL
-33) Apollo client integration
-34) React Test Driven Development (TDD) with Enzyme
-35) React Testing Library
-36) Firebase data fetching  
-37) Gatsby blog development
-38) Google signin authentication
-39) Docker containers
-40) Redis caching
-41) JSON Web Tokens (JWT) authentication
-42) AWS Lambda functions
-43) Nginx Load Balancer
-44) Continuous Integration, Delivery & Deployment with CircleCI
-45) Paypal payment API
-46) Stripe payment API
-47) Geolocalization with Google Maps API
-48) Webpack configuration
-49) Heroku deployment
-50) Express Restfull API 
+15) [React Prop Types](https://github.com/JoakimTeixeira/coin-tracker)
+16) Redux hooks (useDispatch, useSelector)
+17) Redux Async (Redux Thunk, Request/success/failure pattern)
+18) Redux-Saga
+19) React.memo, useMemo and useCallback hooks
+20) Gzipping and compression
+21) React Lazy + React Suspense
+22) Error Boundaries
+23) Custom hooks (useFetch)
+24) Styled-components
+25) Material UI styling
+26) PropTypes
+27) React + Typescript
+28) High Order Component patterns
+29) Consuming Promises with Async/Await
+30) React Query
+31) React Progressive Web App (PWA)
+32) MongoDB + Mongoose
+33) GrapgQL
+34) Apollo client integration
+35) React Test Driven Development (TDD) with Enzyme
+36) React Testing Library
+37) Firebase data fetching  
+38) Gatsby blog development
+39) Google signin authentication
+40) Docker containers
+41) Redis caching
+42) JSON Web Tokens (JWT) authentication
+43) AWS Lambda functions
+44) Nginx Load Balancer
+45) Continuous Integration, Delivery & Deployment with CircleCI
+46) Paypal payment API
+47) Stripe payment API
+48) Geolocalization with Google Maps API
+49) Webpack configuration
+50) Heroku deployment
+51) Express Restfull API 
