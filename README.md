@@ -27,7 +27,7 @@ List of topics that I'm learning and/or practicing.
 21. React Lazy + React Suspense
 22. Error Boundaries
 23. Custom hooks (useFetch)
-24. React-Bootstrap
+24. [React-Bootstrap](https://github.com/JoakimTeixeira/coin-tracker)
 25. Styled-components
 26. Material UI styling
 27. React + Typescript
@@ -54,5 +54,5 @@ List of topics that I'm learning and/or practicing.
 48. Geolocalization with Google Maps API
 49. Webpack configuration
 50. Heroku deployment
-51. API consumption
+51. [API consumption](https://github.com/JoakimTeixeira/coin-tracker)
 52. Express Restfull API
