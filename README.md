@@ -54,4 +54,5 @@ List of topics that I'm learning and/or practicing.
 48. Geolocalization with Google Maps API
 49. Webpack configuration
 50. Heroku deployment
-51. Express Restfull API
+51. API consumption
+52. Express Restfull API
