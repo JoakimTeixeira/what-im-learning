@@ -1,6 +1,6 @@
 # What I'm Learning
 
-List of topics that I'm learning and/or practicing.
+List of topics I'm learning and/or practicing.
 
 ## Topics:
 
