@@ -28,31 +28,32 @@ List of topics I'm learning and/or practicing.
 22. Error Boundaries
 23. Custom hooks (useFetch)
 24. [React-Bootstrap](https://github.com/JoakimTeixeira/coin-tracker)
-25. Styled-components
-26. Material UI styling
-27. React + Typescript
-28. High Order Component patterns
-29. Consuming Promises with Async/Await
-30. React Query
-31. React Progressive Web App (PWA)
-32. MongoDB + Mongoose
-33. GrapgQL
-34. Apollo client integration
-35. React Test Driven Development (TDD) with Enzyme
-36. React Testing Library
-37. Firebase data fetching
-38. Gatsby blog development
-39. Google signin authentication
-40. Docker containers
-41. Redis caching
-42. JSON Web Tokens (JWT) authentication
-43. AWS Lambda functions
-44. Nginx Load Balancer
-45. Continuous Integration, Delivery & Deployment with CircleCI
-46. Paypal payment API
-47. Stripe payment API
-48. Geolocalization with Google Maps API
-49. Webpack configuration
-50. Heroku deployment
+25. React-Query
+26. Styled-components
+27. Material UI styling
+28. React + Typescript
+29. High Order Component patterns
+30. Consuming Promises with Async/Await
+31. React Query
+32. React Progressive Web App (PWA)
+33. MongoDB + Mongoose
+34. GrapgQL
+35. Apollo client integration
+36. React Test Driven Development (TDD) with Enzyme
+37. React Testing Library
+38. Firebase data fetching
+39. Gatsby blog development
+40. Google signin authentication
+41. Docker containers
+42. Redis caching
+43. JSON Web Tokens (JWT) authentication
+44. AWS Lambda functions
+45. Nginx Load Balancer
+46. Continuous Integration, Delivery & Deployment with CircleCI
+47. Paypal payment API
+48. Stripe payment API
+49. Geolocalization with Google Maps API
+50. Webpack configuration
 51. [API consumption](https://github.com/JoakimTeixeira/coin-tracker)
 52. Express Restfull API
+53. Heroku deployment
