@@ -57,3 +57,4 @@ List of topics I'm learning and/or practicing.
 51. [API consumption](https://github.com/JoakimTeixeira/coin-tracker)
 52. Express Restfull API
 53. Heroku deployment
+54. Accessibility
