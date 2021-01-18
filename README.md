@@ -55,6 +55,7 @@ List of topics I'm learning and/or practicing.
 49. Geolocalization with Google Maps API
 50. Webpack configuration
 51. [API consumption](https://github.com/JoakimTeixeira/coin-tracker)
-52. Express Restfull API
-53. Heroku deployment
-54. Accessibility
+52. Express REST API
+53. Express Restfull API
+54. Heroku deployment
+55. Accessibility
