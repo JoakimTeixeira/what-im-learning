@@ -33,10 +33,10 @@ List of topics I'm learning and/or practicing.
 27. Material UI styling
 28. React + Typescript
 29. High Order Component patterns
-30. Consuming Promises with Async/Await
+30. [Consuming Promises with Async/Await](https://github.com/JoakimTeixeira/user-authentication-api)
 31. React Query
 32. React Progressive Web App (PWA)
-33. MongoDB + Mongoose
+33. [MongoDB + Mongoose](https://github.com/JoakimTeixeira/user-authentication-api)
 34. GrapgQL
 35. Apollo client integration
 36. React Test Driven Development (TDD) with Enzyme
@@ -46,7 +46,7 @@ List of topics I'm learning and/or practicing.
 40. Google signin authentication
 41. Docker containers
 42. Redis caching
-43. JSON Web Tokens (JWT) authentication
+43. [JSON Web Tokens (JWT) authentication](https://github.com/JoakimTeixeira/user-authentication-api)
 44. AWS Lambda functions
 45. Nginx Load Balancer
 46. Continuous Integration, Delivery & Deployment with CircleCI
@@ -55,7 +55,7 @@ List of topics I'm learning and/or practicing.
 49. Geolocalization with Google Maps API
 50. Webpack configuration
 51. [API consumption](https://github.com/JoakimTeixeira/coin-tracker)
-52. Express REST API
+52. [Express REST API](https://github.com/JoakimTeixeira/user-authentication-api)
 53. Express Restfull API
-54. Heroku deployment
+54. [Heroku deployment](https://github.com/JoakimTeixeira/image-search)
 55. Accessibility
