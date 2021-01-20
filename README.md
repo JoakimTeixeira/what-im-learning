@@ -59,3 +59,4 @@ List of topics I'm learning and/or practicing.
 53. Express Restfull API
 54. [Heroku deployment](https://github.com/JoakimTeixeira/image-search)
 55. Accessibility
+56. [React custom route](https://github.com/JoakimTeixeira/user-authentication-client)
