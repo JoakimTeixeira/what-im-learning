@@ -29,9 +29,9 @@ List of topics I'm learning and/or practicing.
 23. Custom hooks (useFetch)
 24. [React-Bootstrap](https://github.com/JoakimTeixeira/coin-tracker)
 25. React-Query
-26. Styled-components
+26. [Styled-components](https://github.com/JoakimTeixeira/slash-delivery)
 27. Material UI styling
-28. React + Typescript
+28. [React + Typescript](https://github.com/JoakimTeixeira/slash-delivery)
 29. High Order Component patterns
 30. [Consuming Promises with Async/Await](https://github.com/JoakimTeixeira/user-authentication-api)
 31. React Query
