@@ -60,3 +60,4 @@ List of topics I'm learning and/or practicing.
 54. [Heroku deployment](https://github.com/JoakimTeixeira/image-search)
 55. Accessibility
 56. [React custom route](https://github.com/JoakimTeixeira/user-authentication-client)
+57. [Materilize CSS styling](https://github.com/JoakimTeixeira/working-hours)
