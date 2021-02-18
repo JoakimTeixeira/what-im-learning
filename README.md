@@ -20,7 +20,7 @@ List of topics I'm learning and/or practicing.
 14. [Chart manipulation](https://github.com/JoakimTeixeira/coin-tracker)
 15. [React PropTypes](https://github.com/JoakimTeixeira/coin-tracker)
 16. [Redux hooks (useDispatch, useSelector)](https://github.com/JoakimTeixeira/banking-component-redux)
-17. Redux Async (Redux Thunk, Request/success/failure pattern)
+17. [Redux Async (Redux Thunk, Request/success/failure pattern)](https://github.com/JoakimTeixeira/robot-friends)
 18. Redux-Saga
 19. React.memo, useMemo and useCallback hooks
 20. Gzipping and compression
