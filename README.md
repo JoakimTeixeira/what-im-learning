@@ -22,7 +22,7 @@ List of topics I'm learning and/or practicing.
 16. [Redux hooks (useDispatch, useSelector)](https://github.com/JoakimTeixeira/banking-component-redux)
 17. [Redux Async (Redux Thunk, Request/success/failure pattern)](https://github.com/JoakimTeixeira/robot-friends)
 18. Redux-Saga
-19. React.memo, useMemo and useCallback hooks
+19. [React.memo, useMemo and useCallback hooks](https://github.com/JoakimTeixeira/progress-bar)
 20. Gzipping and compression
 21. React Lazy + React Suspense
 22. Error Boundaries
