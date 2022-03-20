@@ -61,3 +61,4 @@ List of topics I'm learning and/or practicing.
 55. Accessibility
 56. [React custom route](https://github.com/JoakimTeixeira/user-authentication-client)
 57. [Materilize CSS styling](https://github.com/JoakimTeixeira/working-hours)
+58. [React + TypeScript + Context API hooks](https://github.com/JoakimTeixeira/progress-bar)
