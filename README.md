@@ -29,36 +29,43 @@ List of topics I'm learning and/or practicing.
 23. Custom hooks (useFetch)
 24. [React-Bootstrap](https://github.com/JoakimTeixeira/coin-tracker)
 25. React-Query
-26. [Styled-components](https://github.com/JoakimTeixeira/slash-delivery)
-27. Material UI styling
-28. [React + Typescript](https://github.com/JoakimTeixeira/slash-delivery)
-29. High Order Component patterns
-30. [Consuming Promises with Async/Await](https://github.com/JoakimTeixeira/user-authentication-api)
-31. React Query
-32. React Progressive Web App (PWA)
-33. [MongoDB + Mongoose](https://github.com/JoakimTeixeira/user-authentication-api)
-34. GrapgQL
-35. Apollo client integration
-36. React Test Driven Development (TDD) with Enzyme
-37. React Testing Library
-38. Firebase data fetching
-39. Gatsby blog development
-40. Google signin authentication
-41. Docker containers
-42. Redis caching
-43. [JSON Web Tokens (JWT) authentication](https://github.com/JoakimTeixeira/user-authentication-api)
-44. AWS Lambda functions
-45. Nginx Load Balancer
-46. Continuous Integration, Delivery & Deployment with CircleCI
-47. Paypal payment API
-48. Stripe payment API
-49. Geolocalization with Google Maps API
-50. Webpack configuration
-51. [API consumption](https://github.com/JoakimTeixeira/coin-tracker)
-52. [Express REST API](https://github.com/JoakimTeixeira/user-authentication-api)
-53. Express Restfull API
-54. [Heroku deployment](https://github.com/JoakimTeixeira/image-search)
-55. Accessibility
-56. [React custom route](https://github.com/JoakimTeixeira/user-authentication-client)
-57. [Materilize CSS styling](https://github.com/JoakimTeixeira/working-hours)
-58. [React + TypeScript + Context API hooks](https://github.com/JoakimTeixeira/progress-bar)
+26. Clean code best practices
+27. [Styled-components](https://github.com/JoakimTeixeira/slash-delivery)
+28. Material UI styling
+29. Storybook
+30. Advanced transition animations
+31. Blender 3D modeling
+32. Three.js 3D manipulation
+33. [React + Typescript](https://github.com/JoakimTeixeira/slash-delivery)
+34. High Order Component patterns
+35. [Consuming Promises with Async/Await](https://github.com/JoakimTeixeira/user-authentication-api)
+36. React Query
+37. React Progressive Web App (PWA)
+38. [MongoDB + Mongoose](https://github.com/JoakimTeixeira/user-authentication-api)
+39. GrapgQL & Apollo client
+40. React Testing Library
+41. Firebase & Firestore database
+42. Gatsby
+43. Google sign-in authentication
+44. Docker containers
+45. Redis caching
+46. [JSON Web Tokens (JWT) authentication](https://github.com/JoakimTeixeira/user-authentication-api)
+47. AWS Lambda functions
+48. Nginx Load Balancer
+49. Queue management
+50. Notifications
+51. Workers to sync data
+52. Socket.io (Real-time communication) 
+53. Image lazy loading
+54. Webpack configuration
+55. [API consumption](https://github.com/JoakimTeixeira/coin-tracker)
+56. [Express REST API](https://github.com/JoakimTeixeira/user-authentication-api)
+57. Google Pay API
+58. Stripe API
+59. Google Maps API
+60. [Heroku deployment](https://github.com/JoakimTeixeira/image-search)
+61. CI & CD with GitHub Actions
+62. Accessibility
+63. [React custom route](https://github.com/JoakimTeixeira/user-authentication-client)
+64. [Materilize CSS styling](https://github.com/JoakimTeixeira/working-hours)
+65. [React + TypeScript + Context API hooks](https://github.com/JoakimTeixeira/progress-bar)
