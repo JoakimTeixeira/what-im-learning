@@ -66,7 +66,7 @@ List of topics I'm learning and/or practicing.
 - [Drag & Drop](https://github.com/JoakimTeixeira/book-list)
 - [Wireframing](https://github.com/JoakimTeixeira/help-teacher)
 - 404 page
-- Image lazy loading
+- Image lazy loading (React Lazy + React Suspense)
 - React Progressive Web App (PWA)
 
 
@@ -94,7 +94,6 @@ List of topics I'm learning and/or practicing.
 
 ## Optimization Techniques
 - [Memoization](https://github.com/JoakimTeixeira/memoization-script)
-- React Lazy + React Suspense
 - Gzipping and compression
 - Redis caching
 - Webpack bundling
