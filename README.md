@@ -113,6 +113,8 @@ List of topics I'm learning and/or practicing.
 - Virtualization
 - IP Tables firewall
 - Digital Signature authentication
+- SSL Tunneling
+- DMZ + VPN
 - Docker containerization
 - Kubernetes orchertration
 - AWS services
