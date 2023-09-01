@@ -119,7 +119,7 @@ List of topics I'm learning and/or practicing.
 - SSL Tunneling
 - DMZ + VPN
 - Docker containerization
-- Kubernetes orchertration
+- Kubernetes orchestration
 - AWS services
 - Terraform + Ansible infrastructure automation
 - Git Flow
