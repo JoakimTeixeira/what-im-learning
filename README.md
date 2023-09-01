@@ -95,14 +95,17 @@ List of topics I'm learning and/or practicing.
 ## Optimization Techniques
 - [Memoization](https://github.com/JoakimTeixeira/memoization-script)
 - Gzipping and compression
+- Database Indexing
 - Redis caching
 - Webpack bundling
 
 
 ## Coding Best Practices
-- Clean code
-- React Testing Library
-- Model–view–controller (MVC) Pattern
+- Clean Code
+- Unit Testing
+- End-to-End Testing
+- Model–View–Controller (MVC)
+- Domain-Driven Design (DDD)
 - Data Streaming with Kafka
 - Accessibility
 
