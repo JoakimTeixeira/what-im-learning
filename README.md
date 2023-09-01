@@ -53,7 +53,8 @@ List of topics I'm learning and/or practicing.
 - [React-Bootstrap](https://github.com/JoakimTeixeira/coin-tracker)
 - [Styled-components](https://github.com/JoakimTeixeira/slash-delivery)
 - [Materilize CSS](https://github.com/JoakimTeixeira/working-hours)
-- [SASS post processor](https://github.com/JoakimTeixeira/nature-touch)
+- [SASS post processor](https://github.com/JoakimTeixeira?tab=repositories&q=sass)
+- [GSAP animations](https://github.com/JoakimTeixeira?tab=repositories&q=gsap)
 - Advanced transition animations
 - Material UI
 - Storybook
