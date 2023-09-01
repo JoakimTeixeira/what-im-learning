@@ -125,6 +125,7 @@ List of topics I'm learning and/or practicing.
 - Git Flow
 - GitHub Actions pipeline
 - Code Quality validation
+- Package Managing Automation
 
 
 ## 2D Programming
