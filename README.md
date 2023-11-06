@@ -58,6 +58,7 @@ List of topics I'm learning and/or practicing.
 - Advanced transition animations
 - Material UI
 - Storybook
+- Theming
 
 #### UX Best Practices
 - [Pagination](https://github.com/JoakimTeixeira/image-search)
@@ -68,12 +69,14 @@ List of topics I'm learning and/or practicing.
 - 404 page
 - Image lazy loading (React Lazy + React Suspense)
 - React Progressive Web App (PWA)
+- i18n (Internationalization)
 
 
 ## Server
 - [Express REST API](https://github.com/JoakimTeixeira/user-authentication-api)
 - [JSON Web Tokens (JWT) authentication](https://github.com/JoakimTeixeira/user-authentication-api)
 - [NestJs + Next.js](https://github.com/JoakimTeixeira/best-book-sellers)
+- NestJs + Angular + TypeORM
 - Google sign-in authentication
 - AWS Lambda functions
 - Nginx Load Balancer
@@ -88,8 +91,14 @@ List of topics I'm learning and/or practicing.
 ## Database
 - [MongoDB + Mongoose](https://github.com/JoakimTeixeira/user-authentication-api)
 - [MongoDB + Prisma](https://github.com/JoakimTeixeira/best-book-sellers/tree/main/backend)
+- MySQL + Sequelize
 - GrapgQL + Apollo client
 - Firebase + Firestore
+- ETL Process
+- Data Warehouse + OLAP Cube
+- Batch/CRON Job
+- Migration Script
+- Scheduler with Bull
 
 
 ## Optimization Techniques
