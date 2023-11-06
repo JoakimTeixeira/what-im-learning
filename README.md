@@ -94,7 +94,7 @@ List of topics I'm learning and/or practicing.
 - MySQL + Sequelize
 - GrapgQL + Apollo client
 - Firebase + Firestore
-- ETL Process
+- ETL Data Processing
 - Data Warehouse + OLAP Cube
 - Batch/CRON Job
 - Migration Script
