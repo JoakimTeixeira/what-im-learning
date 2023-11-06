@@ -90,6 +90,7 @@ Prototypes exemplifing concepts or tools, for future use and reference.
 - Google Pay API
 - Stripe API
 - PDF Conversion system
+- Data Scraping
 
 
 ## Database
