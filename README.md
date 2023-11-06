@@ -113,6 +113,7 @@ List of topics I'm learning and/or practicing.
 - Database Indexing
 - Redis caching
 - Webpack bundling
+- Primary/Replica architecture
 
 
 ## Coding Best Practices
