@@ -87,6 +87,7 @@ List of topics I'm learning and/or practicing.
 - Socket.io
 - Google Pay API
 - Stripe API
+- PDF Conversion system
 
 
 ## Database
