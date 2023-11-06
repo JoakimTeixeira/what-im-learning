@@ -1,6 +1,8 @@
 # What I'm Learning
 
-List of topics I'm learning and/or practicing.
+List of topics I'm learning and/or practicing. 
+
+Prototypes exemplifing concepts or tools, for future use and reference.
 
 ## Frontend
 
