@@ -82,6 +82,7 @@ List of topics I'm learning and/or practicing.
 - Nginx Load Balancer
 - Queue management
 - Notification system
+- Email templating
 - Workers' data sync
 - Socket.io
 - Google Pay API
@@ -94,9 +95,12 @@ List of topics I'm learning and/or practicing.
 - MySQL + Sequelize
 - GrapgQL + Apollo client
 - Firebase + Firestore
-- ETL Data Processing
+- Databases Integration (Merge, Convert, Consolidate)
+- Data cleaning with ETL Process
 - Data Warehouse + OLAP Cube
 - Batch/CRON Job
+- SQL Trigger
+- Stored Procedure
 - Migration Script
 - Scheduler with Bull
 
