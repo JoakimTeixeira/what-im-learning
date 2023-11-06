@@ -104,6 +104,7 @@ List of topics I'm learning and/or practicing.
 - Stored Procedure
 - Migration Script
 - Scheduler with Bull
+- Automated Database Backup
 
 
 ## Optimization Techniques
