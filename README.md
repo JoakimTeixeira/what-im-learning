@@ -135,7 +135,7 @@ List of topics I'm learning and/or practicing.
 - DMZ + VPN
 - Docker containerization
 - Kubernetes orchestration
-- AWS services
+- AWS services (EC2, RDS, S3, CloudFront)
 - Terraform + Ansible infrastructure automation
 - Git Flow
 - GitHub Actions pipeline
