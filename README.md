@@ -134,13 +134,14 @@ List of topics I'm learning and/or practicing.
 - Digital Signature authentication
 - SSL Tunneling
 - DMZ + VPN
+- DNS configuration
 - Docker containerization
 - Kubernetes orchestration
 - AWS services (EC2, RDS, S3, CloudFront)
 - Terraform + Ansible infrastructure automation
 - Git Flow
 - GitHub Actions pipeline
-- Code Quality validation
+- Code Quality validation (SonarQube)
 - Package Managing Automation
 
 
