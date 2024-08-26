@@ -1,6 +1,6 @@
 # What I'm Learning
 
-List of topics I'm learning and/or practicing. 
+List of topics I'm learning or practicing. 
 
 Prototypes exemplifing concepts or tools, for future use and reference.
 
@@ -132,12 +132,6 @@ Prototypes exemplifing concepts or tools, for future use and reference.
 ## DevOps
 - [Heroku deployment](https://github.com/JoakimTeixeira/image-search)
 - [Shell scripting](https://github.com/JoakimTeixeira/search-script)
-- Virtualization
-- IP Tables firewall
-- Digital Signature authentication
-- SSL Tunneling
-- DMZ + VPN
-- DNS configuration
 - [Docker containerization](https://github.com/JoakimTeixeira/loyalty-as-a-service)
 - Kubernetes orchestration
 - [AWS services](https://github.com/JoakimTeixeira/loyalty-as-a-service)
@@ -147,6 +141,18 @@ Prototypes exemplifing concepts or tools, for future use and reference.
 - GitHub Actions pipeline
 - Code Quality validation (SonarQube)
 - Package Managing Automation
+
+
+## Web Security
+- IP Tables Rules
+- Web Application Firewall (WAF)
+- Digital Signature authentication
+- Password Encryption
+- Virtualization 
+- SSL Tunneling
+- DMZ Network
+- VPN access
+- DNS configuration
 
 
 ## 2D Programming
