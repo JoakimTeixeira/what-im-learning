@@ -81,8 +81,8 @@ Prototypes exemplifing concepts or tools, for future use and reference.
 - NestJs + Angular + TypeORM
 - Google sign-in authentication
 - AWS Lambda functions
-- Nginx Load Balancer
-- Queue management
+- [Load Balancer](https://github.com/JoakimTeixeira?tab=repositories&q=load-balancer)
+- [Queue management](https://github.com/JoakimTeixeira/loyalty-as-a-service)
 - Notification system
 - Email templating
 - Workers' data sync
@@ -125,7 +125,7 @@ Prototypes exemplifing concepts or tools, for future use and reference.
 - End-to-End Testing
 - Model–View–Controller (MVC)
 - Domain-Driven Design (DDD)
-- Data Streaming with Kafka
+- [Kafka Distributed Event Streaming](https://github.com/JoakimTeixeira/loyalty-as-a-service)
 - Accessibility
 
 
@@ -138,10 +138,11 @@ Prototypes exemplifing concepts or tools, for future use and reference.
 - SSL Tunneling
 - DMZ + VPN
 - DNS configuration
-- Docker containerization
+- [Docker containerization](https://github.com/JoakimTeixeira/loyalty-as-a-service)
 - Kubernetes orchestration
-- AWS services (EC2, RDS, S3, CloudFront)
-- Terraform + Ansible infrastructure automation
+- [AWS services](https://github.com/JoakimTeixeira/loyalty-as-a-service)
+- [Terraform automation](https://github.com/JoakimTeixeira/loyalty-as-a-service)
+- Ansible automation
 - Git Flow
 - GitHub Actions pipeline
 - Code Quality validation (SonarQube)
