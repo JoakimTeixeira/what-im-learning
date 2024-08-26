@@ -144,6 +144,7 @@ Prototypes exemplifing concepts or tools, for future use and reference.
 
 
 ## Web Security
+- OWASP Top 10
 - IP Tables Rules
 - Web Application Firewall (WAF)
 - Digital Signature authentication
