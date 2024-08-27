@@ -138,9 +138,9 @@ Prototypes exemplifing concepts or tools, for future use and reference.
 - [Terraform automation](https://github.com/JoakimTeixeira/loyalty-as-a-service)
 - Ansible automation
 - Git Flow
-- GitHub Actions pipeline
+- [GitHub Actions pipeline](https://github.com/JoakimTeixeira?tab=repositories&q=github-actions)
 - Code Quality validation (SonarQube)
-- Package Managing Automation
+- [Package Managing Automation](https://github.com/JoakimTeixeira?tab=repositories&q=dependabot-auto-merge)
 
 
 ## Web Security
