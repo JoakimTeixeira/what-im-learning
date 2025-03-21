@@ -2,7 +2,7 @@
 
 List of topics I'm learning or practicing. 
 
-Prototypes exemplifing concepts or tools, for future use and reference.
+I've attached prototypes exemplifying concepts or tools for future use and reference.
 
 ## Frontend
 
@@ -35,11 +35,7 @@ Prototypes exemplifing concepts or tools, for future use and reference.
 - [Algorithm Diagram](https://github.com/JoakimTeixeira/working-hours)
 - [File parsing](https://github.com/JoakimTeixeira/file-reader)
 - [UUID](https://github.com/JoakimTeixeira?tab=repositories&q=uuid)
-- Redux-Saga
-- React-Query
-- Custom hooks (useFetch)
 - Error Boundaries
-- Google Maps API
 
 #### Configuration
 - [Enviroment variables](https://github.com/JoakimTeixeira?tab=repositories&q=environment-variables)
@@ -54,7 +50,7 @@ Prototypes exemplifing concepts or tools, for future use and reference.
 #### Styling
 - [React-Bootstrap](https://github.com/JoakimTeixeira/coin-tracker)
 - [Styled-components](https://github.com/JoakimTeixeira/slash-delivery)
-- [Materilize CSS](https://github.com/JoakimTeixeira/working-hours)
+- [Materialize CSS](https://github.com/JoakimTeixeira/working-hours)
 - [SASS post processor](https://github.com/JoakimTeixeira?tab=repositories&q=sass)
 - [GSAP animations](https://github.com/JoakimTeixeira?tab=repositories&q=gsap)
 - Advanced transition animations
@@ -68,21 +64,27 @@ Prototypes exemplifing concepts or tools, for future use and reference.
 - [File Minification](https://github.com/JoakimTeixeira/nature-touch)
 - [Drag & Drop](https://github.com/JoakimTeixeira/book-list)
 - [Wireframing](https://github.com/JoakimTeixeira/help-teacher)
-- 404 page
-- Image lazy loading (React Lazy + React Suspense)
 - React Progressive Web App (PWA)
 - i18n (Internationalization)
 
+## Optimization Techniques
+- [Memoization](https://github.com/JoakimTeixeira/memoization-script)
+- [Load Balancer](https://github.com/JoakimTeixeira?tab=repositories&q=load-balancer)
+- [Queue management](https://github.com/JoakimTeixeira/loyalty-as-a-service)
+- [Kafka: Distributed Event Streaming](https://github.com/JoakimTeixeira/loyalty-as-a-service)
+- Lazy loading
+- File bundling
+- Gzipping and compression
+- Database Indexing
+- Caching strategies
+- Primary/Replica architecture
 
 ## Server
 - [Express REST API](https://github.com/JoakimTeixeira/user-authentication-api)
 - [JSON Web Tokens (JWT) authentication](https://github.com/JoakimTeixeira/user-authentication-api)
 - [NestJs + Next.js](https://github.com/JoakimTeixeira/best-book-sellers)
-- NestJs + Angular + TypeORM
 - Google sign-in authentication
 - AWS Lambda functions
-- [Load Balancer](https://github.com/JoakimTeixeira?tab=repositories&q=load-balancer)
-- [Queue management](https://github.com/JoakimTeixeira/loyalty-as-a-service)
 - Notification system
 - Email templating
 - Workers' data sync
@@ -92,42 +94,27 @@ Prototypes exemplifing concepts or tools, for future use and reference.
 - PDF Conversion system
 - Data Scraping
 
-
 ## Database
 - [MongoDB + Mongoose](https://github.com/JoakimTeixeira/user-authentication-api)
 - [MongoDB + Prisma](https://github.com/JoakimTeixeira/best-book-sellers/tree/main/backend)
-- MySQL + Sequelize
-- GrapgQL + Apollo client
-- Firebase + Firestore
-- Databases Integration (Merge, Convert, Consolidate)
+- Integration of databases (Merge, Convert, Consolidate)
 - Data cleaning with ETL Process
 - Data Warehouse + OLAP Cube
 - Batch/CRON Job
 - SQL Trigger
 - Stored Procedure
-- Migration Script
-- Scheduler with Bull
+- Scheduler
+- Automated Migration
 - Automated Database Backup
 
-
-## Optimization Techniques
-- [Memoization](https://github.com/JoakimTeixeira/memoization-script)
-- Gzipping and compression
-- Database Indexing
-- Redis caching
-- Webpack bundling
-- Primary/Replica architecture
-
-
-## Coding Best Practices
+## Best Practices
 - Clean Code
 - Unit Testing
 - End-to-End Testing
+- SOLID Principles
 - Model–View–Controller (MVC)
 - Domain-Driven Design (DDD)
-- [Kafka Distributed Event Streaming](https://github.com/JoakimTeixeira/loyalty-as-a-service)
 - Accessibility
-
 
 ## DevOps
 - [Heroku deployment](https://github.com/JoakimTeixeira/image-search)
@@ -136,14 +123,13 @@ Prototypes exemplifing concepts or tools, for future use and reference.
 - Kubernetes orchestration
 - [AWS services](https://github.com/JoakimTeixeira/loyalty-as-a-service)
 - [Terraform automation](https://github.com/JoakimTeixeira/loyalty-as-a-service)
-- Ansible automation
-- Git Flow
 - [GitHub Actions pipeline](https://github.com/JoakimTeixeira?tab=repositories&q=github-actions)
-- Code Quality validation (SonarQube)
 - [Package Managing Automation](https://github.com/JoakimTeixeira?tab=repositories&q=dependabot-auto-merge)
-
+- Automated Code Quality validation (SonarQube)
+- Automated program installation on servers (Ansible)
 
 ## Web Security
+- Code Obfuscation
 - OWASP Top 10
 - IP Tables Rules
 - Web Application Firewall (WAF)
@@ -152,20 +138,18 @@ Prototypes exemplifing concepts or tools, for future use and reference.
 - Virtualization 
 - SSL Tunneling
 - DMZ Network
-- VPN access
+- VPN access for intranet
 - DNS configuration
-
 
 ## 2D Programming
 - [Canvas + Collision + Points system](https://github.com/JoakimTeixeira/snake-game)
 - [Canvas modeling](https://github.com/JoakimTeixeira/pure-css-images)
 - Level system
 - Texture + Sprites
-
+- Multiplayer
 
 ## 3D Programming
 - Blender 3D modeling
 - Three.js 3D manipulation
 - Model animation with GSAP
 - Custom Shader
-
